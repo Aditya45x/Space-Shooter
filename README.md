@@ -5,11 +5,23 @@ Space Shooter is a 2D arcade shooter where the player controls a spaceship, batt
 This game is a part of my learning process in Python and game development, with an emphasis on handling sprite animations, collision mechanics, and more advanced game logic.
 
 Controls
+
+
 Arrow Keys: Move your spaceship.
+
+
 Spacebar: Fire laser.
+
+
 ESC: Pause the game.
+
+
 R: Resume/Restart the game.
+
+
 Q: Quit the game.
+
+
 C: Show controls during the pause menu.
 
 
