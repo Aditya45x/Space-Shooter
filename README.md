@@ -6,28 +6,27 @@ This game is a part of my learning process in Python and game development, with 
 
 Controls
 
-
 Arrow Keys: Move your spaceship.
-
 
 Spacebar: Fire laser.
 
-
 ESC: Pause the game.
-
 
 R: Resume/Restart the game.
 
-
 Q: Quit the game.
-
 
 C: Show controls during the pause menu.
 
 
 Credits
+
 This game uses the following assets:
+
 Background-https://lnkd.in/dxjsDeyn
+
 Player- https://lnkd.in/dKpvEf4e 
+
 Metor-https://lnkd.in/dBtXSW-H
+
 Missile- https://lnkd.in/drMeyvpN
